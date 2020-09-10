@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# aidevday
+# AI Learning Paths 📕 :
+- [Artificial Intelligence](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/ai-overview?wt.mc_id=AID3018161_QSG_451995&ocid=AID3018161_QSG_451995)
+- [AI Dev Day](https://docs.microsoft.com/en-us/users/arkodyutisaha/collections/j2w2hjge0xq3r0?wt.mc_id=AID3018161_QSG_EML_461735&ocid=AID3018161_QSG_EML_461735)
+- [Introduction to Bot Framework Composer](https://docs.microsoft.com/en-us/composer/introduction?wt.mc_id=AID3018161_QSG_EML_461736&ocid=AID3018161_QSG_EML_461736)
+- [What is QnA maker service?](https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/Overview/overview?wt.mc_id=AID3018161_QSG_EML_461737&ocid=AID3018161_QSG_EML_461737)
+- [What is Bot Framework SDK?](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-overview-introduction?view=azure-bot-service-4.0&wt.mc_id=AID3018161_QSG_EML_461738&ocid=AID3018161_QSG_EML_461738)
+- [What is Azure Cognitive Services?](https://docs.microsoft.com/en-us/azure/cognitive-services/what-are-cognitive-services?wt.mc_id=AID3018161_QSG_EML_461739&ocid=AID3018161_QSG_EML_461739)
 
-You can use the [editor on GitHub](https://github.com/KonfHub/aidevday/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KonfHub/aidevday/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Newsletter 📰 :
+Learn about new technologies, stay connected with developers globally by subscribing to [Microsoft.Source](https://azure.microsoft.com/en-in/resources/join-the-azure-developer-community/?wt.mc_id=AID3018161_QSG_PD_SCL_446884&ocid=AID3018161_QSG_PD_SCL_446884)! 🤓 Latest updates on events, technology, articles and more on the newsletter! 👩‍💻
