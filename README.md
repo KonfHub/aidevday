@@ -1,5 +1,5 @@
 # aidevday
-# Learning Resources 📕 :
+# AI Learning Paths 📕 :
 - [Artificial Intelligence](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/ai-overview?wt.mc_id=AID3018161_QSG_451995&ocid=AID3018161_QSG_451995)
 - [AI Dev Day](https://docs.microsoft.com/en-us/users/arkodyutisaha/collections/j2w2hjge0xq3r0?wt.mc_id=AID3018161_QSG_EML_461735&ocid=AID3018161_QSG_EML_461735)
 - [Introduction to Bot Framework Composer](https://docs.microsoft.com/en-us/composer/introduction?wt.mc_id=AID3018161_QSG_EML_461736&ocid=AID3018161_QSG_EML_461736)
