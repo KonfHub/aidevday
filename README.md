@@ -1,5 +1,7 @@
 # aidevday
 # What is AI Dev Day? 
+![34051599635969718](https://user-images.githubusercontent.com/32809211/92719124-55dafd80-f380-11ea-9530-2ccb2afdaab6.jpg)
+
 AI Dev Day is a single day, virtual, developer-focussed, community driven conference on AI and Cloud, taken over by professional AI and Cloud developers. The event has been tailor-made with the objective encouraging and helping AI & ML developers upskill in the most face-paced career trend. The event is absolutely free and open for all.
 # Speaker Announcement 📣
 - [Akanksha Malik](https://twitter.com/akankshamalik96)
