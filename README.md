@@ -6,7 +6,7 @@ AI Dev Day is a single day, virtual, developer-focussed, community driven confer
 # Speaker Announcement 📣
 - [Akanksha Malik](https://twitter.com/akankshamalik96)
   - AI to BI- One stop solutions in Azure Synapse
-- [Amy Body](https://twitter.com/AmyKateNicho) and [Gary Pretty](https://twitter.com/GaryPretty)
+- [Amy Boyd](https://twitter.com/AmyKateNicho) and [Gary Pretty](https://twitter.com/GaryPretty)
   - Improve Customer Engagement and Productivity with Conversational AI
 - [Niloshima Srivastva](https://twitter.com/niloshima)
   - Understanding Face API in Cognitive Services
