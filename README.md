@@ -4,12 +4,23 @@
 
 AI Dev Day is a single day, virtual, developer-focussed, community driven conference on AI and Cloud, taken over by professional AI and Cloud developers. The event has been tailor-made with the objective encouraging and helping AI & ML developers upskill in the most face-paced career trend. The event is absolutely free and open for all.
 # Speaker Announcement 📣
+- [Amanda Wong](https://www.linkedin.com/in/wonggamanda/)   &  [Devanshi Thakar](https://www.linkedin.com/in/devanshithakar/)
+  - Extracting Value from Text and Audio to Inform Business Strategy
 - [Akanksha Malik](https://twitter.com/akankshamalik96)
   - AI to BI- One stop solutions in Azure Synapse
 - [Amy Boyd](https://twitter.com/AmyKateNicho) and [Gary Pretty](https://twitter.com/GaryPretty)
   - Improve Customer Engagement and Productivity with Conversational AI
+- [Pulkit Agarwal](https://www.linkedin.com/in/pulkit-agarwal-16756715/)
+   - ML Ops with Azure ML & GitHub Actions
 - [Niloshima Srivastva](https://twitter.com/niloshima)
   - Understanding Face API in Cognitive Services
+- [Syed Farhan Ahmad](https://twitter.com/syedfarhanrvce)
+  - Quantum Machine Learning with Microsoft Q#
+- [Priyanka Shah](https://twitter.com/fuzzymind1)
+  - Text semantics with Azure Text Analytics Cognitive services
+- [Haimantika Mitra](https://twitter.com/HaimantikaM)
+  - Build your model using Azure Custom vision and deploy it in a webapp
+
 # Speaker Slides 📝
 
 Will be updated soon!
@@ -23,3 +34,5 @@ Will be updated soon!
 
 # Newsletter 📰 
 Learn about new technologies, stay connected with developers globally by subscribing to [Microsoft.Source](https://azure.microsoft.com/en-in/resources/join-the-azure-developer-community/?wt.mc_id=AID3018161_QSG_PD_SCL_446884&ocid=AID3018161_QSG_PD_SCL_446884)! 🤓 Latest updates on events, technology, articles and more on the newsletter! 👩‍💻
+
+# ➡️ Check out our [website](https://aidevday.konfhub.com/) for more details on AI Dev Day.
