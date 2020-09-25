@@ -23,7 +23,7 @@ AI Dev Day is a single day, virtual, developer-focussed, community driven confer
 
 # Speaker Slides 📝
 
-Will be updated soon!
+- [Extracting Value from Text and Audio to Inform Business Strategy](https://github.com/KonfHub/aidevday/files/5280799/India.AIDev.Day.Slides.pptx) by [Amanda Wong](https://www.linkedin.com/in/wonggamanda/)   &  [Devanshi Thakar](https://www.linkedin.com/in/devanshithakar/)
 # AI Learning Paths 📕 
 - [Artificial Intelligence](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/ai-overview?wt.mc_id=AID3018161_QSG_451995&ocid=AID3018161_QSG_451995)
 - [AI Dev Day](https://docs.microsoft.com/en-us/users/arkodyutisaha/collections/j2w2hjge0xq3r0?wt.mc_id=AID3018161_QSG_EML_461735&ocid=AID3018161_QSG_EML_461735)
