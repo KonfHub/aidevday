@@ -24,6 +24,7 @@ AI Dev Day is a single day, virtual, developer-focussed, community driven confer
 # Speaker Slides 📝
 
 - [Extracting Value from Text and Audio to Inform Business Strategy](https://github.com/KonfHub/aidevday/files/5280799/India.AIDev.Day.Slides.pptx) by [Amanda Wong](https://www.linkedin.com/in/wonggamanda/)   &  [Devanshi Thakar](https://www.linkedin.com/in/devanshithakar/)
+- [Quantum Machine Learning with Microsoft Q#](https://github.com/KonfHub/aidevday/files/5286540/Syed.Farhan.-.QPower.Quantum.Machine.Learning.pdf) by [Syed Farhan Ahmad](https://twitter.com/syedfarhanrvce)
 - [Text semantics with Azure Text Analytics Cognitive services](https://github.com/KonfHub/aidevday/files/5286277/AIDEVDAY-26Sept.pptx) by [Priyanka Shah](https://twitter.com/fuzzymind1)
 - [Build your models with Azure Cognitive Services](https://github.com/KonfHub/aidevday/files/5286249/Build.your.models.with.Azure.Cognitive.Services.pptx) by [Haimantika Mitra](https://twitter.com/HaimantikaM)
 
