@@ -35,4 +35,12 @@ AI Dev Day is a single day, virtual, developer-focussed, community driven confer
 # Newsletter 📰 
 Learn about new technologies, stay connected with developers globally by subscribing to [Microsoft.Source](https://azure.microsoft.com/en-in/resources/join-the-azure-developer-community/?wt.mc_id=AID3018161_QSG_PD_SCL_446884&ocid=AID3018161_QSG_PD_SCL_446884)! 🤓 Latest updates on events, technology, articles and more on the newsletter! 👩‍💻
 
+# Azure Dev Challenge 📣
+The Azure Dev Challenge is live for #AiDevDay.
+Take part to win cool Azure Heroe badges. Complete any one of the [learning paths](http://konf.me/azurechallenge), tweet your MS Learn profile with #AiDevDay, and wait for your badges!
+
+
+P.S- Keep your dm open!
+
+
 # ➡️ Check out our [website](https://aidevday.konfhub.com/) for more details on AI Dev Day.
