@@ -24,10 +24,11 @@ AI Dev Day is a single day, virtual, developer-focussed, community driven confer
 # Speaker Slides 📝
 
 - [Extracting Value from Text and Audio to Inform Business Strategy](https://github.com/KonfHub/aidevday/files/5280799/India.AIDev.Day.Slides.pptx) by [Amanda Wong](https://www.linkedin.com/in/wonggamanda/)   &  [Devanshi Thakar](https://www.linkedin.com/in/devanshithakar/)
+- [Improve Customer Engagement and Productivity with Conversational AI](https://gaicstor2020.blob.core.windows.net/aidevdayindia/AIDEVDAYINDIA-AIML40-shared.pdf) by [Amy Boyd](https://twitter.com/AmyKateNicho) & [Gary Pretty](https://twitter.com/GaryPretty)
+- [Understanding Face API in Cognitive Services](https://github.com/KonfHub/aidevday/files/5290332/Understanding.Azure.Face.API.pptx) by [Niloshima Srivastva](https://twitter.com/niloshima)
 - [Quantum Machine Learning with Microsoft Q#](https://github.com/KonfHub/aidevday/files/5286540/Syed.Farhan.-.QPower.Quantum.Machine.Learning.pdf) by [Syed Farhan Ahmad](https://twitter.com/syedfarhanrvce)
 - [Text semantics with Azure Text Analytics Cognitive services](https://github.com/KonfHub/aidevday/files/5286277/AIDEVDAY-26Sept.pptx) by [Priyanka Shah](https://twitter.com/fuzzymind1)
 - [Build your models with Azure Cognitive Services](https://github.com/KonfHub/aidevday/files/5286249/Build.your.models.with.Azure.Cognitive.Services.pptx) by [Haimantika Mitra](https://twitter.com/HaimantikaM)
-- [Improve Customer Engagement and Productivity with Conversational AI](https://gaicstor2020.blob.core.windows.net/aidevdayindia/AIDEVDAYINDIA-AIML40-shared.pdf) by [Amy Boyd](https://twitter.com/AmyKateNicho) & [Gary Pretty](https://twitter.com/GaryPretty)
 
 # AI Learning Paths 📕 
 - [Artificial Intelligence](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/ai-overview?wt.mc_id=AID3018161_QSG_451995&ocid=AID3018161_QSG_451995)
