@@ -16,7 +16,6 @@ AI Dev Day is a single day, virtual, developer-focussed, community driven confer
   - Understanding Face API in Cognitive Services
 - [Syed Farhan Ahmad](https://twitter.com/syedfarhanrvce)
   - Quantum Machine Learning with Microsoft Q#
-- [Priyanka Shah](https://twitter.com/fuzzymind1)
   - Text semantics with Azure Text Analytics Cognitive services
 - [Haimantika Mitra](https://twitter.com/HaimantikaM)
   - Build your model using Azure Custom vision and deploy it in a webapp
@@ -28,7 +27,6 @@ AI Dev Day is a single day, virtual, developer-focussed, community driven confer
 - [ML Ops with Azure ML & GitHub Actions](https://www.slideshare.net/CodeOps/ml-ops-with-azure-ml-amp-git-hub-actions) by [Pulkit Agarwal](https://www.linkedin.com/in/pulkit-agarwal-16756715/)
 - [Understanding Face API in Cognitive Services](https://github.com/KonfHub/aidevday/files/5290332/Understanding.Azure.Face.API.pptx) by [Niloshima Srivastva](https://twitter.com/niloshima)
 - [Quantum Machine Learning with Microsoft Q#](https://github.com/KonfHub/aidevday/files/5286540/Syed.Farhan.-.QPower.Quantum.Machine.Learning.pdf) by [Syed Farhan Ahmad](https://twitter.com/syedfarhanrvce)
-- [Text semantics with Azure Text Analytics Cognitive services](https://github.com/KonfHub/aidevday/files/5286277/AIDEVDAY-26Sept.pptx) by [Priyanka Shah](https://twitter.com/fuzzymind1)
 - [Build your models with Azure Cognitive Services](https://github.com/KonfHub/aidevday/files/5286249/Build.your.models.with.Azure.Cognitive.Services.pptx) by [Haimantika Mitra](https://twitter.com/HaimantikaM)
 
 # AI Learning Paths 📕 
